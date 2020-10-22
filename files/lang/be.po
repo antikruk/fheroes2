@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 735ab4085007dcc4b4cf3c0047d9efe4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-01-22 09:48+0800\n"
-"PO-Revision-Date: 2020-10-21 12:45\n"
+"PO-Revision-Date: 2020-10-22 12:42\n"
 "Last-Translator: \n"
 "Language-Team: Belarusian\n"
 "MIME-Version: 1.0\n"
@@ -19,11 +19,11 @@ msgstr ""
 
 #: ../fheroes2/ai/ai_action.cpp:157 ../fheroes2/heroes/heroes_action.cpp:248
 msgid "Hero %{name} also got a %{count} experience."
-msgstr ""
+msgstr "Герой %{name} таксама атрымаў %{count} досведу."
 
 #: ../fheroes2/army/army_bar.cpp:221 ../fheroes2/resource/artifact.cpp:977
 msgid "View %{name}"
-msgstr ""
+msgstr "Праглядзець %{name}"
 
 #: ../fheroes2/army/army_bar.cpp:227 ../fheroes2/army/army_bar.cpp:310
 msgid "Move or right click to redistribute %{name}"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../fheroes2/army/army_bar.cpp:233 ../fheroes2/army/army_bar.cpp:301
 msgid "Combine %{name} armies"
-msgstr ""
+msgstr "Аб'яднаць %{name} арміі"
 
 #: ../fheroes2/army/army_bar.cpp:238 ../fheroes2/army/army_bar.cpp:292
 #: ../fheroes2/resource/artifact.cpp:989
